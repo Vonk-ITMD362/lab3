@@ -274,3 +274,26 @@ main {
 #input{
 	border: none;
 }
+
+/* ===== STATE STYLES ======= */
+
+@media screen and (max-width: 768px) {
+    #content{
+      width: 80%;
+      margin:auto;
+      text-align: center;
+      display: block;
+    }
+  
+    html {
+      font-size: 1.4em;
+      line-height: 1.2em;
+      padding: 1.2em;
+      text-rendering: optimizeLegibility;
+    }
+  
+    label {
+      display: block;
+    }
+  }
+  

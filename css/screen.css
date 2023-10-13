@@ -251,3 +251,18 @@ label {
 	text-align: center;
 	color: #FFFFFF;
 }
+
+#input-submit{
+	font-family: 'Oswald', sans-serif;
+	background-color: #6e6e6e;
+	display: block;
+	box-sizing: border-box;
+	margin: auto;
+	width: 100%;
+	padding:1em/*16px*/;
+	text-align: center;
+	color: #ffffff;
+}
+#input{
+	border: none;
+}

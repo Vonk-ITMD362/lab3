@@ -222,6 +222,10 @@ main {
 	color: #FFFFFF;
 }
 
+#h1, p {
+    text-align: center
+}
+
 #p{
 	font-size:1em/*16px*/;
 	padding: 1em/*16px*/;

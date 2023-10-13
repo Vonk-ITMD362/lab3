@@ -211,7 +211,7 @@ label {
 #heading{
 	font-size: 2.25em /*36px */;
 	font-family: "Montserrat", "Lato", "Roboto Slab", Calibri, sans-serif;
-	background-color: #818589;
+	background-color: #575757;
 	display: block;
 	box-sizing: border-box;
 	margin: auto;
@@ -219,7 +219,7 @@ label {
 	resize: vertical;
 	padding: 1.125em /*18px */;
 	text-align: center;
-	color: #FFFFFF;
+	color: #b6b6b6;
 }
 
 #h1, p {
@@ -236,7 +236,7 @@ label {
 }
 #input-email{
 	font-family: "Montserrat", "Lato", "Roboto Slab", Calibri, sans-serif;
-	background-color:#818589;
+	background-color:#252525;
 	display:block;
 	box-sizing: border-box;
 	margin: auto;
@@ -249,7 +249,7 @@ label {
 
 #input-age-verification{
 	font-family: "Montserrat", "Lato", "Roboto Slab", Calibri, sans-serif;
-	background-color:#8d8888 ;
+	background-color:#464646 ;
 	display:block ;
 	box-sizing: border-box ;
 	margin:auto ;
@@ -262,7 +262,7 @@ label {
 
 #input-submit{
 	font-family: 'Oswald', sans-serif;
-	background-color: #6e6e6e;
+	background-color: #444444;
 	display: block;
 	box-sizing: border-box;
 	margin: auto;
